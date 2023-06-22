@@ -37,5 +37,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/GermanDevF)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@GermanDevF](https://github.com/GermanDevF)
+- Gmail [German](alejandrogermanleon@gmail.com)
