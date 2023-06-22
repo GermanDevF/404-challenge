@@ -38,4 +38,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@GermanDevF](https://github.com/GermanDevF)
-- Gmail [German](alejandrogermanleon@gmail.com)
