@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1,
+  maximum-scale=5" />
+  <link rel="icon" href="devchallenges.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://devchallenges.io/" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Inconsolata" />
+  <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+  <title>Devchallenges</title>
+  <style>
+    body {
+      font-family: monospace, sans-serif;
+      padding: 0 77px;
+    }
+
+    .header {
+      font-family: Inconsolata;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 25.18px;
+      padding-top: 60px;
+    }
+
+    #container {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 85vh;
+    }
+
+    .image_container {
+      display: inherit;
+    }
+
+    img {
+      width: 539.22px;
+      height: 447.43px;
+    }
+
+    .text_container {
+      max-width: 580px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .message {
+      font-weight: 700;
+      font-size: 64px;
+      line-height: 94.78px;
+      color: #333333;
+      margin: 0;
+    }
+
+    p {
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 35.54px;
+    }
+
+    .message_container {
+      max-width: 365px;
+    }
+
+    button {
+      color: #ffffff;
+      background-color: #333333;
+      height: 68px;
+      width: 216px;
+      border: none;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 20.73px;
+      initial-letter: -3.5%;
+    }
+
+    footer {
+      font-family: Montserrat;
+      font-weight: 500;
+      font-size: 14;
+      text-align: center;
+      color: #BDBDBD;
+    }
+
+    footer a {
+      text-decoration: none;
+      cursor: pointer;
+      font-weight: 700;
+      color: #BDBDBD;
+    }
+
+
+
+    @media (max-width: 1100px) {
+      body {
+        padding: 0 24px;
+      }
+
+      .header {
+        padding-top: 20px;
+      }
+
+      #container {
+        flex-direction: column;
+        justify-content: space-around;
+      }
+
+      img {
+        width: 286.83px;
+        height: 238px;
+      }
+
+      .message {
+        font-size: 48px;
+        line-height: 71.09px;
+      }
+
+      p {
+        font-size: 18px;
+        line-height: 26.66px;
+      }
+    }
+
+    @media (max-width: 440px) {
+      button {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="header">404 NOT FOUND</header>
+  <main>
+    <div id="container">
+      <div class="image_container">
+        <img src="./Scarecrow.png" alt="NOT FOUND 404">
+      </div>
+      <div class="text_container">
+        <h1 class="message">I have bad news for you</h1>
+        <div class="message_container">
+          <p>The page you are looking for might be removed or is temporarily unavailable</p>
+        </div>
+        <button>
+          BACK TO HOME PAGE
+        </button>
+      </div>
+    </div>
+  </main>
+  <footer>
+    created by <a target="_blank" href="https://github.com/GermanDevF">GermanDevF</a> - devChallenges.io
+  </footer>
+</body>
+
+</html>
