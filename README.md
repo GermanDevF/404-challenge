@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not found Challenge}</h1>
+<h1 align="center">404 Not found Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,6 +10,10 @@
   <h3>
     <a href="https://four04-not-found-challenge-l727.onrender.com/">
       Demo
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/solutions/0ArXT6ADzQbo33frzAaA">
+      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
